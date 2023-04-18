@@ -5,6 +5,9 @@
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
 
+
+For more details:  https://www.notion.so/splits/Swapper-Audit-Overview-78ba6b86bb604e33942e5915c258ac62
+
 # Q&A
 
 ### Q: On what chains are the smart contracts going to be deployed?
