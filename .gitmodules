@@ -12,7 +12,7 @@
 	url = https://github.com/Uniswap/v3-core
 [submodule "splits-oracle/lib/splits-utils"]
 	path = splits-oracle/lib/splits-utils
-	url = https://github.com/0xsplits/splits-utils
+	url = ./splits-utils
 [submodule "splits-swapper/lib/forge-std"]
 	path = splits-swapper/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
@@ -24,16 +24,16 @@
 	url = https://github.com/transmissions11/solmate
 [submodule "splits-swapper/lib/splits-oracle"]
 	path = splits-swapper/lib/splits-oracle
-	url = https://github.com/0xSplits/splits-oracle
+	url = ./splits-oracle
 [submodule "splits-swapper/lib/v3-periphery"]
 	path = splits-swapper/lib/v3-periphery
 	url = https://github.com/Uniswap/v3-periphery
 [submodule "splits-swapper/lib/splits-utils"]
 	path = splits-swapper/lib/splits-utils
-	url = https://github.com/0xsplits/splits-utils
+	url = ./splits-utils
 [submodule "splits-pass-through-wallet/lib/splits-utils"]
 	path = splits-pass-through-wallet/lib/splits-utils
-	url = https://github.com/0xsplits/splits-utils
+	url = ./splits-utils
 [submodule "splits-pass-through-wallet/lib/forge-std"]
 	path = splits-pass-through-wallet/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
@@ -42,16 +42,16 @@
 	url = https://github.com/foundry-rs/forge-std
 [submodule "splits-diversifier/lib/splits-utils"]
 	path = splits-diversifier/lib/splits-utils
-	url = https://github.com/0xsplits/splits-utils
+	url = ./splits-utils
 [submodule "splits-diversifier/lib/splits-oracle"]
 	path = splits-diversifier/lib/splits-oracle
-	url = https://github.com/0xSplits/splits-oracle
+	url = ./splits-oracle
 [submodule "splits-diversifier/lib/solady"]
 	path = splits-diversifier/lib/solady
 	url = https://github.com/vectorized/solady
 [submodule "splits-diversifier/lib/splits-pass-through-wallet"]
 	path = splits-diversifier/lib/splits-pass-through-wallet
-	url = https://github.com/0xsplits/splits-pass-through-wallet
+	url = ./splits-pass-through-wallet
 [submodule "splits-utils/lib/forge-std"]
 	path = splits-utils/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
