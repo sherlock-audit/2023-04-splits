@@ -1,6 +1,3 @@
-[submodule "plits-oracle/lib/forge-std"]
-	path = plits-oracle/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
 [submodule "splits-oracle/lib/solady"]
 	path = splits-oracle/lib/solady
 	url = https://github.com/vectorized/solady
@@ -64,3 +61,6 @@
 [submodule "splits-utils/lib/solady"]
 	path = splits-utils/lib/solady
 	url = https://github.com/vectorized/solady
+[submodule "splits-oracle/lib/forge-std"]
+	path = splits-oracle/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
