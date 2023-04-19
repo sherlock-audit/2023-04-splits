@@ -64,3 +64,6 @@
 [submodule "splits-oracle/lib/forge-std"]
 	path = splits-oracle/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "splits-diversifier/lib/splits-swapper"]
+	path = splits-diversifier/lib/splits-swapper
+	url = https://github.com/0xsplits/splits-swapper
