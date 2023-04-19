@@ -7,9 +7,11 @@
 [submodule "splits-oracle/lib/v3-periphery"]
 	path = splits-oracle/lib/v3-periphery
 	url = https://github.com/Uniswap/v3-periphery
+	branch = 0.8
 [submodule "splits-oracle/lib/v3-core"]
 	path = splits-oracle/lib/v3-core
 	url = https://github.com/Uniswap/v3-core
+	branch = 0.8
 [submodule "splits-oracle/lib/splits-utils"]
 	path = splits-oracle/lib/splits-utils
 	url = https://github.com/0xsplits/splits-utils
@@ -28,6 +30,7 @@
 [submodule "splits-swapper/lib/v3-periphery"]
 	path = splits-swapper/lib/v3-periphery
 	url = https://github.com/Uniswap/v3-periphery
+	branch = 0.8
 [submodule "splits-swapper/lib/splits-utils"]
 	path = splits-swapper/lib/splits-utils
 	url = https://github.com/0xsplits/splits-utils
